@@ -2,13 +2,14 @@
   技术栈：
     vue
     vue-router
-    vuex √
+    vuex
     less
     pug
     iview(ui框架)
     axios(拦截 加密 设置token)
     随机的登录页面背景      
       https://unsplash.it/1080/608?random
+    环境配置
   
   搭建项目并且安装依赖
     vue init webpack project 搭建项目
