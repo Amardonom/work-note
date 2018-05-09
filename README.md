@@ -16,3 +16,5 @@
     安装ui框架iview，html模板引擎pug,vuex,axios，jssha(推荐逐个安装，安装好了进行相关配置并且测试)
     设置反向代理(解决跨域)
     token
+
+  template.vue为一个页面模板初始代码，通常用来新建页面得时候用
